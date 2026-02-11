@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# MediScribe Front-end with React + TypeScript + Vite
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Dummy-PPL-Kel-5_frontend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Dummy-PPL-Kel-5_frontend)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Dummy-PPL-Kel-5_frontend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Dummy-PPL-Kel-5_frontend)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
